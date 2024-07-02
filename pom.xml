@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>main</groupId>
-  <artifactId>DeviceSimulator</artifactId>
+  <artifactId>device-simulator</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>DeviceSimulator</name>
+  <name>device-simulator</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
