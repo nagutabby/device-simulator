@@ -34,6 +34,18 @@ sudo apt install openjdk-17-jdk
 sudo apt install maven
 ```
 
+Add `JAVA_HOME` by writing the following command to `~/.bashrc`
+
+```bash
+export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+```
+
+Execute `~/.bashrc`
+
+```bash
+source ~/.bashrc
+```
+
 Move to the project directory and build the project
 
 ```bash
